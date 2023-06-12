@@ -1,4 +1,4 @@
-  name: Deploy multi service application
+  name: Deploy multi service application test
   on:
     push:
       branches:
